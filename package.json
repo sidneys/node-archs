@@ -1,0 +1,41 @@
+{
+  "name": "node-archs",
+  "version": "1.0.0",
+  "description": "List of archs (CPU architectures) currently supported by NodeJS",
+  "license": "MIT",
+  "homepage": "https://sidneys.github.io/node-archs",
+  "author": {
+    "name": "sidneys",
+    "url": "https://github.com/sidneys"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidneys/node-archs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sidneys/node-archs/issues"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "node",
+    "architecture",
+    "architectures",
+    "arch",
+    "archs",
+    "platform",
+    "platforms",
+    "os",
+    "support",
+    "supported",
+    "list",
+    "array"
+  ],
+  "devDependencies": {
+    "ava": "*"
+  }
+}
